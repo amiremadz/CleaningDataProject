@@ -2,9 +2,6 @@
 
 
 
-########### Part 1 #############
-
-
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt", header = F)
 features <- read.table("./UCI HAR Dataset/features.txt")
 
